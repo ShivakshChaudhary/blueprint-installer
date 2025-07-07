@@ -21,4 +21,4 @@
 Run this simple one-liner on your Pterodactyl server:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/yourusername/blueprint-installer/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/ShivakshChaudhary/blueprint-installer/main/blueprint-installer.sh)
