@@ -12,14 +12,14 @@ NC='\033[0m' # No Color
 # Branding and Credits
 BRAND="\n${PURPLE}
 ╔═══════════════════════════════════════════════════╗
-║  ____  _                       _       _                   ║
-║ | __ )| |_   _  ___ _ __  _ __(_)_ __ | |_                 ║
-║ |  _ \| | | | |/ _ \ '_ \| '__| | '_ \| __|                ║
-║ | |_) | | |_| |  __/ |_) | |  | | | | | |_                 ║
-║ |____/|_|\__,_|\___| .__/|_|  |_|_| |_|\__|                ║
-║                    |_|                                     ║
-║      ${YELLOW}>> made by Shivaksh Chaudhary <<${PURPLE}    ║
-║         ${YELLOW}DC: unbelievablegirl.exe${PURPLE}         ║
+║  ____  _                       _       _         ║
+║ | __ )| |_   _  ___ _ __  _ __(_)_ __ | |_       ║
+║ |  _ \| | | | |/ _ \ '_ \| '__| | '_ \| __|      ║
+║ | |_) | | |_| |  __/ |_) | |  | | | | | |_       ║
+║ |____/|_|\__,_|\___| .__/|_|  |_|_| |_|\__|      ║
+║                    |_|                           ║
+║      ${YELLOW}>> made by Shivaksh Chaudhary <<${PURPLE}             ║
+║         ${YELLOW}DC: unbelievablegirl.exe${PURPLE}                  ║
 ╚═══════════════════════════════════════════════════╝${NC}"
 
 CREDITS="\n${YELLOW}Created by: Shivaksh Chaudhary
