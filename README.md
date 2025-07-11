@@ -1,6 +1,6 @@
 # Blueprint Installer for Pterodactyl
 
-![Banner](https://i.imgur.com/your-banner-image.png) <!-- Replace with your actual banner image -->
+![Banner](https://github.com/ShivakshChaudhary/blueprint-installer/blob/main/banner.jpg) <!-- Replace with your actual banner image -->
 
 > One-line installer for Blueprint framework on Pterodactyl Panel  
 > Created by **Shivaksh Chaudhary**  
